@@ -1,0 +1,34 @@
+Matplotlib is a python library used for data visualization
+
+
+
+You can create with matplotlib
+    bar- plots, 
+    scatter-plots, 
+    histograms and 
+    lot more 
+
+
+
+Advantages of matplotlib:
+
+        1.Create publication quality plots.
+        2.Make interactive figures that can zoom, pan, update.
+        3.Customize visual style and layout.
+        4.Export to many file formats.
+        5.Embed in JupyterLab and Graphical User Interfaces.
+        6.Use a rich array of third-party packages built on Matplotlib.
+
+
+
+import matplotlib:
+   
+   from matplotlib import pyplot as plt
+
+
+
+
+Note:
+
+use ipynb files and try to run 
+your files in that for you better visualization
